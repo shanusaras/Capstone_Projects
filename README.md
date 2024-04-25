@@ -4,7 +4,9 @@
 #### GENERAL OVERVIEW
 
 **1. Cell Phones Price Prediction**
-![image](![image](https://github.com/shanusaras/ML_Capstone_Projects/assets/152805831/6f25865e-1e81-46d3-b5c0-10d0743f2783)
+<p float="left">
+  <img src="![image](https://github.com/shanusaras/ML_Capstone_Projects/assets/152805831/502fb212-9d88-4af4-bb85-3584a886c4d2)" width="300" />
+</p>
 
 - Predicting cell phone sales is crucial for companies in the telecommunications industry to optimize inventory management, marketing strategies, and revenue forecasting.
 - In this project, a particular use case is taken with all different mobile specifications to help a buisness owner to gain a competitive leverage over other businesses in the market.
