@@ -18,4 +18,4 @@
 
 - Earthquakes can cause devastating damage to infrastructure, leading to loss of lives and economic setbacks.
 - Predicting the potential damage caused by earthquakes is essential for disaster preparedness and response planning.
-- Hence here, utilize seismic data, geographical features, and building characteristics of 2015 earthquake disaster in Nepal to develop a machine learning model capable of predicting the severity of earthquake damage.
+- Hence here seismic data, geographical features, and building characteristics of 2015 earthquake disaster in Nepal are utilized to develop a machine learning model capable of predicting the severity of earthquake damage.
