@@ -3,7 +3,7 @@
 
 #### GENERAL OVERVIEW
 
-**1. Cell Phones Prices Prediction**
+**1. Cell Phones Price Prediction**
 
 - Predicting cell phone sales is crucial for companies in the telecommunications industry to optimize inventory management, marketing strategies, and revenue forecasting.
 - In this project, a particular use case is taken with all different mobile specifications to help a buisness owner to gain a competitive leverage over other businesses in the market.
